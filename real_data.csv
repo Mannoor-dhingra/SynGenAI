@@ -1,0 +1,501 @@
+age,income,gender,education,employment_status,credit_score,label
+62,119435,Male,High School,Employed,618,0
+18,117182,Female,PhD,Self-employed,593,1
+21,34281,Female,Bachelor,Employed,305,1
+21,38387,Male,High School,Self-employed,355,0
+57,80935,Female,Master,Unemployed,776,0
+27,80565,Male,High School,Employed,730,0
+37,109564,Female,PhD,Unemployed,338,1
+39,33704,Female,Bachelor,Unemployed,564,1
+54,70859,Male,High School,Unemployed,493,0
+41,29774,Male,Master,Self-employed,622,0
+24,93728,Female,Master,Unemployed,362,0
+42,93064,Female,Master,Unemployed,316,1
+42,118995,Male,Bachelor,Self-employed,489,1
+30,113258,Female,Master,Unemployed,494,1
+19,38931,Male,High School,Unemployed,567,1
+56,112898,Male,PhD,Unemployed,715,0
+57,88219,Male,PhD,Self-employed,694,0
+41,44919,Female,High School,Self-employed,320,1
+64,100992,Female,PhD,Employed,400,1
+42,92531,Female,Master,Unemployed,352,0
+35,48954,Female,Bachelor,Self-employed,755,0
+55,91712,Female,PhD,Unemployed,570,0
+43,113299,Male,Master,Self-employed,332,1
+31,59366,Female,PhD,Self-employed,707,0
+26,25985,Male,High School,Self-employed,420,0
+27,57292,Male,High School,Employed,365,0
+38,119131,Female,PhD,Unemployed,375,0
+34,95577,Male,PhD,Self-employed,808,0
+23,75986,Female,Master,Unemployed,336,1
+33,30413,Male,PhD,Self-employed,362,1
+18,50441,Male,Bachelor,Unemployed,753,1
+36,88740,Male,PhD,Unemployed,742,1
+53,80857,Female,High School,Self-employed,830,1
+42,20093,Female,Bachelor,Unemployed,684,0
+47,99249,Female,PhD,Employed,301,0
+37,55235,Female,Master,Employed,412,0
+37,56546,Male,PhD,Unemployed,407,0
+32,85940,Female,High School,Unemployed,449,1
+57,25037,Female,High School,Self-employed,569,1
+50,45785,Male,High School,Self-employed,367,1
+19,66031,Male,High School,Unemployed,701,1
+27,85911,Female,PhD,Unemployed,561,1
+50,101572,Male,High School,Unemployed,326,0
+49,96478,Female,High School,Unemployed,711,0
+28,117796,Male,Master,Employed,825,0
+41,36881,Female,PhD,Unemployed,732,1
+53,76818,Male,High School,Self-employed,358,0
+29,43757,Female,High School,Employed,317,0
+46,29630,Male,Master,Unemployed,514,1
+52,115597,Female,High School,Self-employed,520,1
+18,116087,Female,High School,Employed,505,0
+18,90051,Female,Master,Unemployed,691,1
+54,88826,Female,High School,Unemployed,582,0
+23,54330,Female,High School,Unemployed,573,1
+56,82838,Female,Master,Unemployed,731,1
+58,115254,Male,High School,Employed,425,1
+35,45036,Female,Master,Self-employed,648,0
+33,116975,Male,High School,Unemployed,805,1
+22,84866,Female,PhD,Employed,306,0
+59,48250,Male,PhD,Employed,804,0
+60,117254,Female,High School,Self-employed,326,1
+49,36080,Male,PhD,Employed,393,0
+19,78812,Female,PhD,Employed,733,0
+19,76111,Male,PhD,Self-employed,832,1
+57,90272,Female,Master,Employed,777,1
+59,23466,Male,PhD,Employed,740,1
+53,40427,Male,Bachelor,Self-employed,739,1
+56,90238,Male,Master,Employed,451,1
+29,58406,Female,Bachelor,Self-employed,703,0
+64,60621,Male,PhD,Unemployed,755,1
+36,68373,Female,PhD,Unemployed,350,0
+45,91070,Female,Bachelor,Unemployed,714,0
+18,67273,Female,High School,Unemployed,849,0
+32,59078,Female,PhD,Employed,359,0
+53,22987,Male,Master,Unemployed,774,0
+30,41074,Female,Bachelor,Self-employed,745,1
+60,48039,Male,Bachelor,Self-employed,645,0
+38,88828,Female,PhD,Self-employed,503,0
+29,58569,Male,Bachelor,Self-employed,331,1
+22,31100,Female,Bachelor,Unemployed,384,0
+24,61294,Female,Master,Self-employed,390,1
+22,110853,Male,High School,Unemployed,339,1
+21,45819,Female,High School,Self-employed,478,1
+30,117526,Female,Bachelor,Self-employed,594,1
+54,28292,Female,High School,Unemployed,679,0
+58,95997,Female,Bachelor,Unemployed,427,0
+32,60444,Female,High School,Employed,507,0
+33,110286,Female,High School,Employed,313,1
+38,110717,Female,Master,Employed,463,0
+53,93330,Female,Bachelor,Self-employed,786,1
+41,40129,Male,Master,Self-employed,695,0
+33,57644,Female,PhD,Self-employed,659,0
+31,105728,Male,High School,Employed,631,0
+39,62729,Female,PhD,Employed,720,1
+23,61808,Male,Bachelor,Employed,382,0
+59,107496,Male,Bachelor,Self-employed,503,0
+53,115219,Male,Bachelor,Unemployed,462,0
+18,22173,Female,PhD,Employed,380,1
+49,94890,Female,PhD,Unemployed,840,0
+23,106640,Male,Bachelor,Self-employed,693,0
+48,26874,Female,Bachelor,Employed,308,1
+18,103099,Female,PhD,Self-employed,445,0
+54,110808,Male,Bachelor,Unemployed,536,1
+52,109208,Female,High School,Self-employed,520,1
+47,81761,Male,Bachelor,Self-employed,650,1
+21,104416,Male,High School,Employed,423,0
+52,22757,Female,Master,Unemployed,401,1
+60,32120,Male,PhD,Employed,679,1
+31,43842,Female,High School,Self-employed,359,1
+57,89583,Female,PhD,Self-employed,486,1
+39,103971,Female,PhD,Unemployed,574,1
+27,72462,Female,Master,Self-employed,824,0
+18,93381,Male,Bachelor,Employed,583,1
+28,63864,Female,High School,Unemployed,822,0
+61,85094,Female,High School,Self-employed,583,1
+41,93364,Female,High School,Employed,812,1
+20,111014,Male,Master,Employed,307,1
+52,41107,Male,Bachelor,Unemployed,367,1
+53,24930,Female,PhD,Self-employed,672,1
+48,69756,Female,PhD,Employed,811,1
+21,77308,Female,High School,Unemployed,720,1
+36,110981,Female,PhD,Employed,728,0
+64,105371,Female,Master,Self-employed,811,0
+53,40165,Male,High School,Employed,500,0
+38,98957,Female,High School,Self-employed,466,1
+35,20100,Male,High School,Employed,368,1
+45,73942,Male,High School,Self-employed,391,1
+32,94573,Female,Master,Employed,628,1
+59,26037,Male,PhD,Employed,650,1
+19,74779,Female,Bachelor,Unemployed,440,1
+54,45247,Male,Bachelor,Self-employed,532,0
+28,72817,Male,High School,Employed,828,1
+40,44813,Female,Master,Unemployed,561,0
+61,68371,Male,Bachelor,Employed,739,0
+58,67354,Female,Bachelor,Unemployed,578,0
+29,116648,Female,PhD,Employed,657,1
+20,76062,Female,High School,Unemployed,835,1
+34,101941,Female,PhD,Self-employed,551,1
+50,42957,Female,PhD,Employed,487,0
+18,58870,Female,High School,Self-employed,334,0
+56,110512,Male,Master,Self-employed,690,1
+37,49849,Male,PhD,Unemployed,644,1
+64,88727,Female,Bachelor,Self-employed,317,0
+60,62661,Male,High School,Unemployed,300,0
+58,60831,Male,Master,Unemployed,758,0
+31,59308,Female,Master,Unemployed,304,0
+48,23418,Male,Master,Unemployed,822,0
+42,94314,Female,Bachelor,Unemployed,540,0
+20,51739,Female,PhD,Employed,825,1
+21,74198,Male,PhD,Employed,575,0
+48,61790,Female,Bachelor,Self-employed,341,0
+52,116455,Female,Bachelor,Employed,504,1
+61,105125,Female,Master,Unemployed,728,0
+31,41674,Female,Master,Unemployed,351,1
+58,91818,Male,PhD,Employed,407,0
+26,21337,Female,High School,Self-employed,444,1
+37,56315,Male,PhD,Self-employed,804,0
+49,33657,Female,PhD,Employed,826,0
+26,102307,Male,PhD,Unemployed,414,0
+44,25245,Male,PhD,Unemployed,432,0
+20,47342,Female,High School,Self-employed,603,1
+21,23922,Male,Bachelor,Employed,554,1
+62,21221,Female,PhD,Unemployed,759,1
+32,66778,Female,Bachelor,Self-employed,660,1
+50,21924,Male,High School,Self-employed,794,1
+22,76337,Male,Bachelor,Employed,572,1
+21,28901,Male,High School,Self-employed,817,0
+63,61407,Male,High School,Unemployed,466,0
+29,69502,Female,PhD,Self-employed,574,0
+40,94392,Male,High School,Self-employed,394,0
+31,40099,Female,Master,Self-employed,764,0
+63,114533,Male,Bachelor,Employed,726,1
+29,94152,Male,PhD,Unemployed,347,0
+34,57028,Female,Master,Self-employed,577,0
+42,23511,Male,Bachelor,Employed,355,0
+47,96440,Female,Master,Self-employed,630,1
+39,86209,Male,PhD,Unemployed,408,1
+64,54706,Male,Bachelor,Self-employed,331,1
+43,65518,Female,Bachelor,Employed,366,1
+34,45329,Female,High School,Self-employed,447,0
+37,92839,Female,Master,Self-employed,459,1
+51,49419,Female,Master,Self-employed,544,0
+58,117268,Female,Bachelor,Employed,738,1
+50,63647,Female,Master,Self-employed,422,1
+54,51649,Female,Bachelor,Self-employed,787,0
+24,74429,Male,Bachelor,Employed,490,1
+39,113708,Female,High School,Employed,504,0
+49,81046,Male,Bachelor,Unemployed,380,0
+31,62798,Male,Master,Employed,810,1
+25,80278,Female,PhD,Self-employed,434,0
+42,48960,Male,High School,Self-employed,752,0
+33,60738,Male,PhD,Employed,806,0
+59,91255,Female,Bachelor,Unemployed,717,1
+36,47260,Male,High School,Employed,702,1
+58,114617,Female,High School,Unemployed,434,1
+33,47822,Male,Bachelor,Employed,430,1
+29,30738,Male,Master,Unemployed,454,1
+56,52308,Female,Bachelor,Unemployed,538,0
+47,32910,Male,Bachelor,Self-employed,581,0
+19,58464,Male,Bachelor,Unemployed,825,0
+49,23404,Female,Bachelor,Self-employed,357,0
+62,81302,Female,Bachelor,Employed,593,0
+42,30825,Male,Master,Employed,705,0
+42,57010,Male,High School,Employed,407,1
+21,70951,Female,Master,Employed,804,1
+36,55459,Male,Bachelor,Employed,325,0
+21,47724,Female,High School,Self-employed,568,1
+60,91973,Female,High School,Employed,373,1
+30,32404,Male,High School,Unemployed,774,0
+56,62477,Female,PhD,Self-employed,444,1
+53,95312,Female,Master,Unemployed,651,1
+40,59021,Male,Master,Self-employed,529,1
+23,30194,Female,Master,Unemployed,594,1
+41,95955,Male,Bachelor,Self-employed,476,0
+61,63569,Male,Master,Employed,818,0
+50,64465,Male,PhD,Self-employed,813,0
+29,105998,Female,PhD,Self-employed,667,1
+58,28266,Male,Master,Unemployed,491,1
+38,117876,Male,PhD,Self-employed,493,0
+28,108554,Male,Master,Self-employed,577,0
+61,58775,Male,PhD,Employed,464,0
+55,89140,Female,High School,Unemployed,640,0
+46,88816,Female,High School,Self-employed,531,1
+58,25162,Male,Bachelor,Unemployed,846,0
+20,58386,Female,High School,Self-employed,541,1
+45,54202,Female,Bachelor,Self-employed,361,0
+37,56020,Female,High School,Unemployed,628,0
+43,26448,Male,PhD,Employed,618,1
+41,67042,Female,Bachelor,Self-employed,348,1
+64,46214,Female,PhD,Self-employed,743,0
+38,45353,Female,PhD,Self-employed,599,0
+47,27426,Female,Bachelor,Unemployed,804,1
+21,31636,Female,High School,Employed,667,1
+53,115977,Male,High School,Self-employed,455,0
+57,110997,Female,PhD,Self-employed,846,1
+27,20612,Female,Master,Self-employed,725,0
+27,89722,Male,Master,Unemployed,337,1
+59,111204,Male,Bachelor,Unemployed,306,0
+41,77961,Male,PhD,Unemployed,614,0
+21,62506,Male,Bachelor,Unemployed,303,1
+64,106028,Female,Bachelor,Employed,375,0
+44,74888,Female,High School,Unemployed,567,1
+62,63233,Female,High School,Unemployed,713,0
+21,47045,Female,PhD,Self-employed,378,0
+49,40647,Female,Master,Unemployed,582,0
+27,29120,Male,High School,Employed,663,0
+28,78746,Female,Bachelor,Employed,380,0
+45,94650,Male,Master,Self-employed,463,0
+63,85635,Male,High School,Employed,694,0
+25,76537,Male,Bachelor,Unemployed,488,0
+57,87890,Female,High School,Unemployed,399,0
+39,75060,Female,High School,Employed,454,0
+51,65790,Male,High School,Employed,635,1
+62,85180,Male,Bachelor,Unemployed,583,1
+52,21608,Male,Bachelor,Self-employed,432,0
+52,74546,Male,High School,Unemployed,658,0
+42,50105,Male,Bachelor,Self-employed,403,1
+51,111032,Male,High School,Self-employed,541,0
+23,93255,Female,PhD,Employed,737,0
+58,31498,Male,Master,Self-employed,663,0
+54,99483,Male,Bachelor,Unemployed,834,0
+18,50360,Male,High School,Unemployed,648,0
+29,31922,Male,High School,Employed,343,0
+52,85219,Male,PhD,Self-employed,306,1
+23,68851,Female,High School,Unemployed,505,1
+34,79693,Male,Master,Self-employed,445,1
+26,101920,Female,Bachelor,Unemployed,724,0
+19,79530,Male,PhD,Unemployed,778,0
+35,83366,Male,High School,Unemployed,752,0
+53,66947,Female,High School,Unemployed,430,0
+45,63449,Male,High School,Employed,327,0
+58,72115,Female,PhD,Employed,692,0
+54,78530,Female,Bachelor,Self-employed,507,1
+43,22098,Female,Master,Self-employed,515,1
+21,57734,Female,Master,Employed,458,1
+57,87604,Female,High School,Unemployed,825,0
+53,92363,Female,High School,Self-employed,474,1
+48,32918,Male,Bachelor,Self-employed,473,1
+47,58372,Female,High School,Employed,560,1
+51,42893,Male,Master,Self-employed,672,1
+36,97929,Male,Bachelor,Employed,363,1
+35,60642,Female,PhD,Unemployed,574,1
+47,109740,Female,PhD,Self-employed,784,0
+38,105110,Female,Bachelor,Unemployed,500,0
+20,34881,Male,High School,Unemployed,419,0
+23,112311,Female,Master,Employed,614,1
+55,56741,Female,Bachelor,Unemployed,697,0
+30,51782,Male,Bachelor,Employed,824,1
+62,81185,Female,High School,Employed,660,1
+20,85802,Male,Master,Self-employed,377,0
+45,64038,Female,Master,Unemployed,529,0
+39,118173,Male,PhD,Employed,409,1
+57,90918,Female,PhD,Self-employed,375,1
+57,61574,Male,Bachelor,Employed,792,1
+29,114118,Female,Master,Unemployed,738,0
+40,65387,Female,High School,Unemployed,792,1
+48,82834,Male,High School,Self-employed,554,1
+35,113566,Female,Bachelor,Self-employed,671,1
+24,104338,Female,Bachelor,Self-employed,414,1
+25,108754,Male,Master,Self-employed,669,1
+36,118099,Male,High School,Self-employed,311,1
+46,47906,Female,PhD,Unemployed,571,0
+61,93036,Male,PhD,Self-employed,581,1
+37,28819,Female,PhD,Self-employed,450,1
+59,111080,Female,Master,Self-employed,408,0
+47,24485,Male,Master,Self-employed,756,0
+64,108692,Male,Bachelor,Unemployed,776,0
+39,77525,Female,High School,Unemployed,403,1
+27,55051,Male,PhD,Employed,399,0
+43,85323,Female,High School,Self-employed,714,0
+50,116847,Male,Master,Self-employed,693,0
+45,31326,Female,High School,Unemployed,599,1
+27,46956,Female,PhD,Unemployed,700,1
+46,67663,Female,High School,Unemployed,364,1
+61,108652,Female,PhD,Self-employed,435,1
+35,115893,Female,Master,Employed,738,0
+59,69272,Female,Bachelor,Employed,631,0
+18,99634,Female,PhD,Unemployed,613,0
+40,67449,Male,Bachelor,Unemployed,569,1
+34,110637,Male,PhD,Unemployed,532,0
+60,56444,Male,Bachelor,Unemployed,445,1
+54,73484,Female,Master,Employed,470,0
+48,95881,Male,High School,Employed,600,1
+42,31477,Male,PhD,Unemployed,526,1
+21,64550,Male,PhD,Employed,506,1
+26,105552,Male,PhD,Unemployed,343,0
+45,46152,Female,Master,Employed,657,0
+47,92862,Female,PhD,Self-employed,562,1
+64,27557,Male,Master,Self-employed,421,1
+41,97285,Female,Bachelor,Employed,475,0
+50,64069,Female,High School,Unemployed,472,0
+37,117851,Female,Bachelor,Employed,815,1
+26,101521,Female,High School,Unemployed,693,1
+25,32383,Female,High School,Unemployed,423,1
+41,67456,Male,Bachelor,Unemployed,807,1
+31,55312,Female,PhD,Unemployed,334,0
+35,67312,Male,PhD,Employed,778,1
+18,91968,Female,Bachelor,Employed,813,1
+29,52830,Male,Master,Self-employed,594,1
+46,47018,Male,High School,Unemployed,506,0
+54,79788,Female,High School,Self-employed,734,0
+43,50301,Male,High School,Employed,441,1
+50,101728,Female,High School,Employed,346,1
+60,115645,Male,High School,Unemployed,646,1
+32,87559,Male,PhD,Employed,382,0
+40,93878,Female,Master,Unemployed,818,0
+46,38821,Male,High School,Self-employed,727,1
+38,55620,Female,Master,Unemployed,813,0
+36,49267,Male,Bachelor,Employed,757,1
+22,69279,Female,Master,Employed,774,0
+40,119812,Male,PhD,Employed,476,1
+53,35708,Male,Master,Self-employed,701,1
+37,64785,Female,Master,Unemployed,575,1
+25,111219,Female,Bachelor,Self-employed,554,0
+26,54790,Male,High School,Employed,447,1
+31,45735,Female,Master,Unemployed,711,1
+23,105172,Male,PhD,Self-employed,565,1
+18,20592,Male,Bachelor,Unemployed,313,0
+26,108477,Male,Master,Employed,737,1
+33,102944,Female,Master,Self-employed,626,0
+33,40183,Female,Bachelor,Unemployed,421,1
+29,116975,Female,PhD,Unemployed,599,1
+22,85354,Male,PhD,Employed,689,0
+57,85276,Male,PhD,Employed,468,0
+46,57437,Male,Master,Employed,544,1
+63,31408,Female,Master,Self-employed,314,1
+44,30096,Male,PhD,Self-employed,769,1
+28,62441,Female,High School,Unemployed,300,0
+64,52884,Female,PhD,Unemployed,591,0
+45,78085,Female,Bachelor,Self-employed,698,0
+53,60703,Female,Master,Unemployed,802,1
+59,119128,Female,Bachelor,Self-employed,303,0
+36,82782,Male,Bachelor,Unemployed,624,0
+52,108624,Male,High School,Self-employed,401,1
+48,41649,Male,High School,Unemployed,788,1
+61,79253,Male,PhD,Unemployed,725,0
+36,56361,Female,High School,Self-employed,413,1
+63,65548,Female,Master,Employed,701,0
+41,74462,Female,Master,Self-employed,662,1
+19,46703,Male,Master,Self-employed,793,0
+24,76526,Male,Master,Employed,623,0
+60,44993,Female,Master,Unemployed,583,0
+48,79268,Male,PhD,Employed,784,0
+34,47536,Male,Master,Employed,344,1
+44,55044,Male,PhD,Employed,640,1
+53,87399,Female,Bachelor,Unemployed,472,1
+60,76638,Male,Bachelor,Self-employed,381,1
+27,85371,Female,High School,Employed,555,1
+62,93735,Male,Master,Unemployed,649,0
+31,59421,Female,Bachelor,Unemployed,406,0
+24,61750,Male,PhD,Self-employed,460,1
+56,54658,Male,PhD,Self-employed,791,0
+57,112318,Female,PhD,Employed,510,1
+26,79126,Female,High School,Unemployed,713,1
+31,119920,Female,PhD,Self-employed,664,1
+25,78523,Male,High School,Employed,354,0
+34,35919,Female,PhD,Unemployed,325,1
+40,73743,Male,High School,Unemployed,461,1
+33,53394,Female,High School,Self-employed,829,1
+43,34859,Male,Bachelor,Unemployed,797,1
+26,75255,Male,Bachelor,Unemployed,731,1
+53,97799,Male,PhD,Self-employed,828,1
+24,45374,Female,Bachelor,Unemployed,362,0
+35,87674,Male,High School,Unemployed,386,1
+25,51010,Female,High School,Employed,807,1
+38,112726,Male,Master,Unemployed,465,0
+43,111985,Male,Master,Self-employed,565,1
+20,43203,Male,High School,Unemployed,388,1
+34,59789,Male,Bachelor,Self-employed,681,0
+63,32912,Female,High School,Self-employed,673,1
+41,57285,Male,PhD,Unemployed,706,1
+42,49764,Male,Master,Self-employed,484,1
+22,94165,Female,Master,Employed,816,1
+54,47661,Male,Bachelor,Self-employed,376,1
+62,75397,Female,High School,Employed,696,0
+41,49459,Female,Master,Self-employed,450,0
+48,64296,Male,Bachelor,Unemployed,653,0
+43,27008,Male,Master,Self-employed,694,1
+38,38129,Female,Bachelor,Self-employed,498,1
+51,49893,Female,Master,Self-employed,422,1
+55,47004,Female,PhD,Employed,316,0
+41,93828,Female,Master,Employed,711,1
+45,86945,Female,High School,Employed,594,0
+47,119069,Female,Bachelor,Employed,407,1
+51,107197,Female,Bachelor,Employed,384,1
+40,90533,Female,Master,Unemployed,725,1
+25,44528,Male,High School,Self-employed,754,1
+59,73478,Female,Master,Self-employed,413,0
+27,65560,Male,Master,Unemployed,659,1
+18,91592,Male,Master,Unemployed,340,1
+37,88246,Female,PhD,Unemployed,394,1
+54,105022,Female,Bachelor,Unemployed,464,1
+35,34591,Male,High School,Employed,398,1
+38,43059,Male,PhD,Self-employed,427,1
+21,62756,Female,PhD,Unemployed,587,1
+60,92554,Female,Master,Unemployed,426,0
+19,104554,Female,Master,Self-employed,687,0
+38,52891,Female,Master,Unemployed,620,0
+54,51958,Male,Bachelor,Employed,849,0
+22,59228,Male,Master,Employed,803,0
+34,80133,Male,PhD,Employed,312,1
+28,115482,Male,Bachelor,Unemployed,759,0
+63,38013,Male,PhD,Self-employed,632,1
+58,49353,Male,Bachelor,Unemployed,670,1
+48,91208,Male,Bachelor,Self-employed,613,0
+45,79580,Female,Bachelor,Employed,449,0
+61,29425,Female,PhD,Employed,824,0
+49,49363,Female,Bachelor,Self-employed,723,1
+38,54088,Female,PhD,Unemployed,739,1
+24,29694,Male,High School,Unemployed,749,0
+27,60542,Male,PhD,Unemployed,593,1
+45,64709,Female,PhD,Employed,812,1
+53,73630,Male,Bachelor,Unemployed,436,1
+37,117552,Male,Bachelor,Self-employed,768,1
+30,27011,Male,Master,Unemployed,353,0
+36,76487,Male,High School,Unemployed,510,0
+28,60605,Female,High School,Self-employed,636,0
+52,77852,Female,Master,Self-employed,692,1
+51,39521,Female,PhD,Employed,690,1
+61,36151,Female,PhD,Employed,711,1
+21,54176,Male,Bachelor,Unemployed,465,1
+30,119415,Female,High School,Unemployed,719,1
+54,41871,Male,Bachelor,Employed,650,0
+19,112607,Female,Master,Unemployed,741,0
+18,47034,Male,High School,Unemployed,601,0
+57,73977,Female,Bachelor,Self-employed,614,1
+42,99193,Male,High School,Unemployed,451,1
+54,67320,Male,High School,Self-employed,542,0
+53,70679,Male,Bachelor,Employed,764,1
+23,79855,Male,Bachelor,Unemployed,545,1
+24,111237,Male,High School,Self-employed,830,1
+21,103241,Male,Master,Self-employed,786,1
+52,79281,Male,PhD,Self-employed,687,1
+58,56720,Male,High School,Self-employed,475,1
+51,103054,Male,Master,Unemployed,746,0
+46,72677,Female,High School,Employed,653,0
+22,22963,Female,Bachelor,Self-employed,324,1
+44,108815,Female,Master,Employed,437,0
+50,66870,Female,Master,Self-employed,628,1
+63,80781,Female,High School,Self-employed,499,1
+27,60843,Male,PhD,Self-employed,776,1
+23,35265,Female,High School,Employed,597,1
+51,44455,Female,PhD,Employed,623,1
+25,46743,Male,Master,Employed,427,1
+48,89914,Female,PhD,Unemployed,535,1
+26,45136,Female,Bachelor,Employed,324,1
+38,96999,Male,PhD,Unemployed,730,0
+25,65295,Female,PhD,Unemployed,844,0
+21,104662,Female,Master,Employed,337,0
+39,89988,Male,PhD,Self-employed,528,0
+45,111986,Male,Master,Self-employed,355,1
+62,92279,Male,Bachelor,Unemployed,847,0
+21,91166,Male,Bachelor,Self-employed,655,0
+56,71714,Female,High School,Self-employed,365,0
+38,64296,Female,High School,Unemployed,649,0
+25,46885,Female,High School,Employed,529,1
+37,92614,Male,Bachelor,Unemployed,655,1
+49,28804,Female,PhD,Employed,654,0
+18,106465,Male,Master,Employed,391,1
+23,118875,Female,Bachelor,Unemployed,362,1
