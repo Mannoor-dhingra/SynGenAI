@@ -5,7 +5,7 @@ Hey there! 👋 This project is all about using Generative AI to create syntheti
 
 ## 📂 Project Structure
 ```
-📁 Your Repo
+📁 SynGenAI
 ├── generate_data.py            # Generates synthetic tabular data
 ├── privacy_preserving.py       # Trains models with differential privacy
 ├── bias_detection.py           # Checks for biases between real and synthetic data
@@ -64,9 +64,6 @@ DistilBERT seems to handle the synthetic data a bit better, but overall, there�
 - Enhance bias detection with new metrics.
 - Compare models trained with and without differential privacy.
 - Automate everything with a pipeline.
-
-## 📜 License
-MIT License. Use this project, improve it, break it, remix it – just keep it open! 😊
 
 ---
 
